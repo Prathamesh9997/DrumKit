@@ -1,2 +1,8 @@
 # DrumKit
-Introduced JavaScript to make the website user interactive.
+Simple Drum Kit user interactive web application.
+
+## Technologies used:
+* HTML5
+* CSS3 
+* BOOTSTRAP4
+* JavaScript 
